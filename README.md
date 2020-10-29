@@ -5,5 +5,3 @@ The credential file should be put into "assets" folder and named as "credential.
 The weather function cannot be used because the url containing api key has been removed.
 
 Android Minimum api version: 29
-
-.py file is used for esp8266
