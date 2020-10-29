@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">esp8266</string>
+    <string name="welcome_page">Welcome!</string>
+    <string name="p1_btn_weather">Weather in New York</string>
+    <string name="main_page">Nice to meet you!</string>
+
+    <string name="p1_btn_record">RECORD</string>
+    <string name="p1_btn_stop">STOP</string>
+    <string name="timer">01:00</string>
+    <string name="p1_text_speech">Wait for Command.</string>
+    <string name="http_text">Smart Watch says "Hello!"</string>
+
+    <string name="weather_error">Weather: None</string>
+    <string name="weather_loading">Weather:<br>######</br></string>
+</resources>
